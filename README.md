@@ -23,4 +23,5 @@ Steps Followed in this project
 
 Final result
 
-![image](https://github.com/Sana-Afreen438/Sales_Insights/assets/99607942/029baabf-cebb-4b06-b0f1-1d88125fc8c1)
+# ![Uploading image.png…]()
+
